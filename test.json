@@ -1,0 +1,1229 @@
+{
+    "docs": [
+        {
+            "id": 326,
+            "name": "Побег из Шоушенка",
+            "alternativeName": "The Shawshank Redemption",
+            "enName": "",
+            "type": "movie",
+            "year": 1994,
+            "description": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
+            "shortDescription": "Несправедливо осужденный банкир готовит побег из тюрьмы. Тим Роббинс в выдающейся экранизации Стивена Кинга",
+            "movieLength": 142,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "r",
+            "ageRating": 18,
+            "top250": 2,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "EN",
+                    "name": "The Shawshank Redemption",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Шоушенка",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "肖申克的救赎",
+                    "type": "Alternative title on tmdb (Mandarin title)"
+                },
+                {
+                    "language": "GE",
+                    "name": "Gaqceva shoushenkidan",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "AZ",
+                    "name": "Şouşenkdən qaçış",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "AZ",
+                    "name": "Shoushenkden Qacish",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IR",
+                    "name": "Rastgari Dar Shawshank",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IL",
+                    "name": "Homot Shel Tikva",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "JP",
+                    "name": "Shôshanku no sora ni",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RS",
+                    "name": "Бекство из Шошенка",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "KR",
+                    "name": "쇼생크 탈출",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "FR",
+                    "name": "Les Évadés",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "PL",
+                    "name": "Skazani na Shawshank",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "JP",
+                    "name": "ショーシャンクの空に：1994",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IR",
+                    "name": "رستگاری در شاوشنگ",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "KR",
+                    "name": "쇼생크탈출",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BR",
+                    "name": "Um Sonho de Liberdade",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TW",
+                    "name": "刺激1995",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "AR",
+                    "name": "Sueños de Libertad",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BY",
+                    "name": "Выкупленне з Шаўшэнку",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "SA",
+                    "name": "شاوشانك ريديمبشن",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "LV",
+                    "name": "Bēgšana no Saušenkas",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "LV",
+                    "name": "Brīvības cena",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CL",
+                    "name": "Sueños de Libertad",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "MX",
+                    "name": "Sueños de Libertad",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "ES",
+                    "name": "Sueños de Libertad",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Шоушенка",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "The Shawshank Redemption",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "49bf154f0dea2d53b169846a284469cd",
+                "imdb": "tt0111161",
+                "tmdb": 278
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/2FBRJDL06YPtoPTrwU4rTARLs76.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/2FBRJDL06YPtoPTrwU4rTARLs76.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000016b03d1f5365474a90d26998e2a9f/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000016b03d1f5365474a90d26998e2a9f/1344x756"
+            },
+            "rating": {
+                "filmCritics": 8.4,
+                "imdb": 9.3,
+                "kp": 9.111
+            },
+            "votes": {
+                "filmCritics": 147,
+                "imdb": 3200000,
+                "kp": 1146544,
+                "russianFilmCritics": 2
+            },
+            "genres": [
+                {
+                    "id": 8,
+                    "name": "драма",
+                    "slug": "drama"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 1,
+                    "name": "США"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 1055528,
+            "name": "Побег из Претории",
+            "alternativeName": "Escape from Pretoria",
+            "enName": "",
+            "type": "movie",
+            "year": 2020,
+            "description": "Двое борцов за свободу отбывают срок в одной из самых строгих тюрем мира – в «Претории». Вместе с другими узниками они планируют дерзкий и опасный побег. Но придумать план – это только первый шаг. Шаг второй – реализация плана.",
+            "shortDescription": "Борцы с апартеидом планируют побег из африканской тюрьмы. Дэниэл Рэдклифф в триллере по реальной истории",
+            "movieLength": 106,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "pg13",
+            "ageRating": 18,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "EN",
+                    "name": "Escape from Pretoria",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Претории",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Претории",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Escape from Pretoria",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "418de99a8d0c1c279b1018850e4dc245",
+                "imdb": "tt5797184",
+                "tmdb": 502425
+            },
+            "logo": {
+                "url": null,
+                "previewUrl": null
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/03049446-ddac-49d0-a44b-d3bc4dcf6d73/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/03049446-ddac-49d0-a44b-d3bc4dcf6d73/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/239697/2a00000174e2e86d202d0b361f733ece3004/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/239697/2a00000174e2e86d202d0b361f733ece3004/1344x756"
+            },
+            "rating": {
+                "filmCritics": 6.4,
+                "imdb": 6.8,
+                "kp": 7.211
+            },
+            "votes": {
+                "filmCritics": 44,
+                "imdb": 49000,
+                "kp": 320089,
+                "russianFilmCritics": 2
+            },
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                },
+                {
+                    "id": 4,
+                    "name": "триллер",
+                    "slug": "thriller"
+                },
+                {
+                    "id": 16,
+                    "name": "криминал",
+                    "slug": "crime"
+                },
+                {
+                    "id": 17,
+                    "name": "детектив",
+                    "slug": "mystery"
+                },
+                {
+                    "id": 22,
+                    "name": "биография",
+                    "slug": "biography"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 11,
+                    "name": "Великобритания"
+                },
+                {
+                    "id": 25,
+                    "name": "Австралия"
+                },
+                {
+                    "id": 1,
+                    "name": "США"
+                },
+                {
+                    "id": 30,
+                    "name": "ЮАР"
+                },
+                {
+                    "id": 3,
+                    "name": "Германия"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 4442819,
+            "name": "Побег из Таркова. Рейд",
+            "alternativeName": "Побег из Таркова. Рейд",
+            "enName": "",
+            "type": "movie",
+            "year": 2021,
+            "description": "Рассказ о борьбе частных военных компаний на территории города Тарков. Одни представляют интересы международной корпорации TerraGroup, ведущей там незаконную деятельность. Российская ЧВК BEAR направляет в город группу во главе со Скифом, чтобы найти пропавших коллег, чьей миссией был перехват информации о секретных разработках TerraGroup.",
+            "shortDescription": "Наемники отправляются в зону конфликта на поиски сослуживцев. Драйвовый экшен по мотивам онлайн-шутера",
+            "movieLength": 65,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": 5,
+            "ageRating": 18,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "RU",
+                    "name": "Побег из Таркова. Рейд",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Escape from Tarkov",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Таркова. Рейд",
+                    "type": "Russian title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "b6586c2ecce340b5a0cb45ff8c7bfeec",
+                "imdb": "tt14366164",
+                "tmdb": 831493
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/i6XrUK50IlLIj2mylneyWvTV715.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/i6XrUK50IlLIj2mylneyWvTV715.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/4de15a6a-e875-40b0-8f9a-75acc6a78125/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/4de15a6a-e875-40b0-8f9a-75acc6a78125/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/212840/2a0000018bfbbb9a887fea5abb2a633836b4/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/212840/2a0000018bfbbb9a887fea5abb2a633836b4/1344x756"
+            },
+            "rating": {
+                "kp": 6.636,
+                "tmdb": 7.9
+            },
+            "votes": {
+                "kp": 120807,
+                "tmdb": 10
+            },
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                },
+                {
+                    "id": 16,
+                    "name": "криминал",
+                    "slug": "crime"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 2,
+                    "name": "Россия"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 635,
+            "name": "Побег из курятника",
+            "alternativeName": "Chicken Run",
+            "enName": "",
+            "type": "cartoon",
+            "year": 2000,
+            "description": "Курочкам на ферме миссис Туиди приходится нелегко. Для каждой из этих несчастных птиц любое, даже самое погожее утро, может стать последним: в мгновение ока они могут угодить в суп или стать начинкой для пирожка.\n\nБезропотные домашние птички живут в постоянном страхе в ужасных курятниках, напоминающих бараки концлагеря. Все попытки вырваться из страшной фермы на волю оканчиваются провалом. Но однажды на ферме объявляется веселый американский петух Рокки...",
+            "shortDescription": "Дерзкий петух организует массовое бегство кур из фермы-концлагеря. Пластилиновый номинант на «Золотой глобус»",
+            "movieLength": 84,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "g",
+            "ageRating": 0,
+            "typeNumber": 3,
+            "names": [
+                {
+                    "language": "RU",
+                    "name": "Побег из курятника",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Chicken Run",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "038081eacac1422ba330162ffa781b9e",
+                "imdb": "tt0120630"
+            },
+            "logo": {
+                "url": null,
+                "previewUrl": null
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/8115723a-b8ed-4297-a550-9fd9a090ac09/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/8115723a-b8ed-4297-a550-9fd9a090ac09/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/200035/2a000001928b2f207fb6274c64de8058519a/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/200035/2a000001928b2f207fb6274c64de8058519a/1344x756"
+            },
+            "rating": {
+                "filmCritics": 8.5,
+                "imdb": 7.1,
+                "kp": 6.969
+            },
+            "votes": {
+                "filmCritics": 172,
+                "imdb": 224000,
+                "kp": 102287,
+                "russianFilmCritics": 1
+            },
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "мультфильм",
+                    "slug": "animation"
+                },
+                {
+                    "id": 8,
+                    "name": "драма",
+                    "slug": "drama"
+                },
+                {
+                    "id": 6,
+                    "name": "комедия",
+                    "slug": "comedy"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 11,
+                    "name": "семейный",
+                    "slug": "family"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 11,
+                    "name": "Великобритания"
+                },
+                {
+                    "id": 8,
+                    "name": "Франция"
+                },
+                {
+                    "id": 1,
+                    "name": "США"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 4720042,
+            "name": "Побег из космоса",
+            "alternativeName": "Boonie Bears: Back To Earth",
+            "enName": "",
+            "type": "cartoon",
+            "year": 2022,
+            "description": "Медведь Брэмбл всегда хотел стать героем. И однажды ему выпал шанс стать не просто героем, а супергероем. Познакомившись в лесу с пришельцем Эви, Брэмбл становится обладателем суперспособностей. Теперь он может реализовать любое желание одной силой мысли. Высокоразвитый народ Эви покинул Землю миллионы лет назад. И вот теперь Эви вернулся, чтобы передать новейшую технологию землянам, а также в надежде найти давно покинутый древний город и, может быть, свою семью. Однако следом за Эви из космоса прибывают пираты, которые хотят захватить власть во Вселенной. Медведь Брэмбл и его пушистые друзья должны помочь новому другу Эви и заодно спасти Вселенную.",
+            "shortDescription": "Медведь и инопланетянин должны спасти Землю от космических пиратов. Продолжение франшизы о мишках Буни",
+            "movieLength": 100,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ageRating": 6,
+            "typeNumber": 3,
+            "names": [
+                {
+                    "language": "ZH",
+                    "name": "熊出没·重返地球",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из космоса",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "Boonie Bears 8",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没之重返地球",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Boonie Bears：Back To Earth",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "NL",
+                    "name": "Boonie Bears: Redden de aarde!",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BE",
+                    "name": "Boonie Bears: Redden de aarde!",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "LU",
+                    "name": "Boonie Bears : Sauvent la Terre !",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "LU",
+                    "name": "Boonie Bears: Rette die Erde!",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没大电影8",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "EE",
+                    "name": "Lustakad Karud: Tagasi Maale",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из космоса",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Boonie Bears: Back To Earth",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "bc3149cbd400415ba8ea893cb3c34b1b",
+                "imdb": "tt17081112",
+                "tmdb": 931404
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/yZd3hNrqvH2RTJxL8TSSoGBBXa4.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/yZd3hNrqvH2RTJxL8TSSoGBBXa4.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/e3773dee-5309-454c-8e37-fab131d9171e/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/e3773dee-5309-454c-8e37-fab131d9171e/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/200035/2a000001824660783d6ea2e54e5ebcd87a65/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/200035/2a000001824660783d6ea2e54e5ebcd87a65/1344x756"
+            },
+            "rating": {
+                "imdb": 5.7,
+                "kp": 8.377
+            },
+            "votes": {
+                "imdb": 753,
+                "kp": 96959
+            },
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "мультфильм",
+                    "slug": "animation"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 2,
+                    "name": "фантастика",
+                    "slug": "sci-fi"
+                },
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                },
+                {
+                    "id": 11,
+                    "name": "семейный",
+                    "slug": "family"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 31,
+                    "name": "Китай"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 6398509,
+            "name": "Побег из плена",
+            "alternativeName": "Prisoner of War",
+            "enName": "",
+            "type": "movie",
+            "year": 2025,
+            "description": "Апрель 1942 года, Филиппины. Во время боевого задания самолёт офицера британских ВВС Джеймса Райта сбивают над Батааном. Джеймс катапультируется, но попадает в плен к японцам, которые контролируют полуостров. Оказавшись в лагере для военнопленных, он узнаёт, что многих узников впоследствии отправляют на печально известный Батаанский марш смерти, выжить в котором практически невозможно. Но перед отправкой командующий лагерем Бэндзиро Ито заставляет пленных участвовать в жестоких смертельных боях. Райт, в совершенстве владеющий боевыми искусствами, становится последней надеждой для своих товарищей.",
+            "shortDescription": "Британский лётчик решает сбежать из японского лагеря смерти. Экшен со Скоттом Эдкинсом",
+            "movieLength": 112,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "r",
+            "ageRating": 18,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "EN",
+                    "name": "Prisoner of War",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Военнопленный",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Death March",
+                    "type": "Alternative title on tmdb (working title)"
+                },
+                {
+                    "language": "EG",
+                    "name": "اسير الحرب",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из плена",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из плена",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Prisoner of War",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "ed69cccdf1c74a4c898f612bcbd234f7",
+                "imdb": "tt33057137",
+                "tmdb": 1328803
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/8MmHwahP5yaO8YLihOsTsfLEW7D.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/8MmHwahP5yaO8YLihOsTsfLEW7D.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/9d89e71b-163c-4f38-af8b-aba2bda51aa5/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/9d89e71b-163c-4f38-af8b-aba2bda51aa5/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/12808873/2a0000019b313d807ee9ab1a901361e2e5fa/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/12808873/2a0000019b313d807ee9ab1a901361e2e5fa/1344x756"
+            },
+            "rating": {
+                "filmCritics": 6,
+                "imdb": 5.7,
+                "kp": 6.879
+            },
+            "votes": {
+                "filmCritics": 15,
+                "imdb": 4000,
+                "kp": 71873
+            },
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                },
+                {
+                    "id": 19,
+                    "name": "военный",
+                    "slug": "war"
+                },
+                {
+                    "id": 23,
+                    "name": "история",
+                    "slug": "history"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 47,
+                    "name": "Филиппины"
+                },
+                {
+                    "id": 1,
+                    "name": "США"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 5215684,
+            "name": "Побег из страны роботов",
+            "alternativeName": "Boonie Bears: Guardian Code",
+            "enName": "",
+            "type": "cartoon",
+            "year": 2023,
+            "description": "Когда Бриар и Брэмбл были маленькими медвежатами, их любящая мама таинственно исчезла. Много лет спустя на выставке «Планета Роботов» медведи встречают стремительную незнакомку, поразительно похожую на их пропавшую родительницу. Теперь братьям предстоит раскрыть тайну загадочного исчезновения мамы, и это расследование перевернет их жизнь с лап на голову.",
+            "shortDescription": "Братья-медведи разыскивают маму, пропавшую много лет назад. Продолжение анимационной франшизы из Китая",
+            "movieLength": 95,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "pg",
+            "ageRating": 6,
+            "typeNumber": 3,
+            "names": [
+                {
+                    "language": "ZH",
+                    "name": "熊出没·伴我“熊芯”",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из страны роботов",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没大电影9",
+                    "type": "Alternative title on tmdb (动画)"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没·伴我“熊芯”",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Boonie Bears: Guardian Code",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没大电影09之伴我熊芯",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "UA",
+                    "name": "Загадковий світ роботів",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "Boonie Bears 9",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "KR",
+                    "name": "부니베어 : 가디언 코드",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "KR",
+                    "name": "부니 베어 : 가디언 코드",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CL",
+                    "name": "Xiong Chu Mei Ban Wo Xiong Xin",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BE",
+                    "name": "Xiong chu mo: Ban Wo Xiong Xin",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "EE",
+                    "name": "Lustakad Karud: Kaotatud Aare",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из страны роботов",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Boonie Bears: Guardian Code",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "9a79b1c951364b24ad5df8601d85727b",
+                "imdb": "tt25981462",
+                "tmdb": 1078012
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/HyohvT1xINDBFhRrhRt3O5FHuF.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/HyohvT1xINDBFhRrhRt3O5FHuF.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/10900341/882022d2-40f1-4768-bbfa-52159cbaeb2b/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/10900341/882022d2-40f1-4768-bbfa-52159cbaeb2b/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1652588/2a00000189fdf0b2276acacbb8258984c516/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/1652588/2a00000189fdf0b2276acacbb8258984c516/1344x756"
+            },
+            "rating": {
+                "imdb": 6.2,
+                "kp": 8.121
+            },
+            "votes": {
+                "imdb": 271,
+                "kp": 50117
+            },
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "мультфильм",
+                    "slug": "animation"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 11,
+                    "name": "семейный",
+                    "slug": "family"
+                },
+                {
+                    "id": 456,
+                    "name": "детский",
+                    "slug": "children"
+                },
+                {
+                    "id": 2,
+                    "name": "фантастика",
+                    "slug": "sci-fi"
+                },
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 31,
+                    "name": "Китай"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 412299,
+            "name": "Побег из Вегаса",
+            "alternativeName": "Get Him to the Greek",
+            "enName": "",
+            "type": "movie",
+            "year": 2010,
+            "description": "Арон Гринберг получил работу, о которой мечтал всю жизнь. Но он никак не ожидал, что его первым заданием будет привезти из Лондона в Лос-Анджелес строптивую рок-звезду. Альдус Сноу — бывший кумир миллионов, знаменитый рокер и прекрасный музыкант, который после продолжительного пике собирается вернуться на большую сцену. Но его характер испорчен алкоголем и развращен деньгами настолько, что любая промелькнувшая юбка может увлечь его в водоворот зубодробительных приключений, в которых теряется само понятие о времени...",
+            "shortDescription": "",
+            "movieLength": 113,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "r",
+            "ageRating": 16,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "EN",
+                    "name": "Get Him to the Greek",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Вегаса",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "UA",
+                    "name": "Зірковий ескорт",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "JP",
+                    "name": "伝説のロックスター再生計画!",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из Вегаса",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Get Him to the Greek",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "imdb": "tt1226229",
+                "tmdb": 32823
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/rNv3za4XtbkqBIvqJGjxlXeT48M.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/rNv3za4XtbkqBIvqJGjxlXeT48M.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/42cdd920-508d-4fa0-bf37-0e48d0b8c5e2/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/42cdd920-508d-4fa0-bf37-0e48d0b8c5e2/600x900"
+            },
+            "backdrop": null,
+            "rating": {
+                "filmCritics": 6.4,
+                "imdb": 6.3,
+                "kp": 6.566,
+                "russianFilmCritics": 60
+            },
+            "votes": {
+                "filmCritics": 201,
+                "imdb": 190000,
+                "kp": 47350,
+                "russianFilmCritics": 5
+            },
+            "genres": [
+                {
+                    "id": 6,
+                    "name": "комедия",
+                    "slug": "comedy"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 21,
+                    "name": "музыка",
+                    "slug": "music"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 1,
+                    "name": "США"
+                },
+                {
+                    "id": 9,
+                    "name": "Япония"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 4404,
+            "name": "Побег из Нью-Йорка",
+            "alternativeName": "Escape from New York",
+            "enName": "",
+            "type": "movie",
+            "year": 1981,
+            "description": "1997 год. Весь остров Манхэттен - одна большая тюрьма строгого режима. Много лет идет Третья мировая война. Президент захвачен группой революционеров и посажен в тюрьму. Ветеран войны Плисскен должен вызволить президента из этой зоны беспредельной жестокости, а времени у него очень мало. Если он не спасет президента в срок, то погибнет сам. Ему введен смертельный препарат, а противоядие он получит по возвращении.",
+            "shortDescription": "Непокорный солдат ищет президента в Нью-Йорке, ставшем тюрьмой. Культовая фантастика Джона Карпентера",
+            "movieLength": 99,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ratingMpaa": "r",
+            "ageRating": 18,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "RU",
+                    "name": "Побег из Нью-Йорка",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Escape from New York",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "44a4aac68386b999bf5553a15a736b7a",
+                "imdb": "tt0082340"
+            },
+            "logo": {
+                "url": null,
+                "previewUrl": null
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/de3e73ab-8192-4249-bca4-7033203761a4/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/de3e73ab-8192-4249-bca4-7033203761a4/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000016b55c673d47e63a7954fbc53be1b/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000016b55c673d47e63a7954fbc53be1b/1344x756"
+            },
+            "rating": {
+                "filmCritics": 7.3,
+                "imdb": 7.1,
+                "kp": 6.927
+            },
+            "votes": {
+                "filmCritics": 165,
+                "imdb": 172000,
+                "kp": 46213
+            },
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "фантастика",
+                    "slug": "sci-fi"
+                },
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 1,
+                    "name": "США"
+                },
+                {
+                    "id": 11,
+                    "name": "Великобритания"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 1209891,
+            "name": "Побег из джунглей",
+            "alternativeName": "Boonie Bears: Blast Into the Past",
+            "enName": "",
+            "type": "cartoon",
+            "year": 2019,
+            "description": "Во время экскурсии в древнюю пещеру медведи Брайр и Брэмбл и их друг-дровосек Вик внезапно оказываются в настоящем доисторическом прошлом. \nЧтобы вернуться назад, им придется совершить большое путешествие во времени и пережить невероятные приключения: столкнуться с огромными хищными птицами, гигантскими черепахами и многочисленными неведомыми и опасными обитателями первобытных джунглей. Но главное - найти новых друзей и дорогу домой!",
+            "shortDescription": "Два мишки и лесоруб оказываются в доисторическом прошлом. Захватывающее путешествие в мир первобытных существ",
+            "movieLength": 88,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ageRating": 0,
+            "typeNumber": 3,
+            "names": [
+                {
+                    "language": "ZH",
+                    "name": "熊出没·原始时代",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из джунглей",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没6",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没大电影6",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Boonie Bears: Blast Into The Past",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "Xiong chu mo yuan shi shi dai",
+                    "type": "Alternative title on tmdb (transliteration)"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没：原始时代",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没6：原始时代",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "熊出没·原始时代",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "ES",
+                    "name": "BONNIE BEAR AVENTURA EN LA PREHISTORIA",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "DE",
+                    "name": "Die Boonies: eine bärenstarke Zeitreise",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Побег из джунглей",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Boonie Bears: Blast Into the Past",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "49932b42bc389029afe58351b9ecad07",
+                "imdb": "tt10250750",
+                "tmdb": 581218
+            },
+            "logo": {
+                "url": null,
+                "previewUrl": null
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/22d79d21-541f-4940-93b0-ecb8f7d87c73/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/22d79d21-541f-4940-93b0-ecb8f7d87c73/600x900"
+            },
+            "backdrop": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1652588/2a0000017110e8bcbd1d24f53bb4d166d00b/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/1652588/2a0000017110e8bcbd1d24f53bb4d166d00b/1344x756"
+            },
+            "rating": {
+                "imdb": 5.6,
+                "kp": 8.177
+            },
+            "votes": {
+                "imdb": 355,
+                "kp": 44679
+            },
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "мультфильм",
+                    "slug": "animation"
+                },
+                {
+                    "id": 6,
+                    "name": "комедия",
+                    "slug": "comedy"
+                },
+                {
+                    "id": 2,
+                    "name": "фантастика",
+                    "slug": "sci-fi"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 11,
+                    "name": "семейный",
+                    "slug": "family"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 31,
+                    "name": "Китай"
+                }
+            ],
+            "releaseYears": []
+        }
+    ],
+    "total": 1000,
+    "limit": 10,
+    "page": 1,
+    "pages": 100
+}
