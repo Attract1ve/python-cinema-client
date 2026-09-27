@@ -1,8 +1,8 @@
 import requests
 from config import API_TOKEN, BASE_URL
 import json
-from api import searchFilm
-from utils import parser
+from api import searchFilm, getMovieDetails
+from utils import parserSearch, parserMovieDetails
 
 command = ""
 commands = f"""
@@ -22,12 +22,28 @@ while command != "0":
     if command == "1": 
         name = input("Введите название фильма > ")
         response = searchFilm(name)
-        movies = parser(response)
+        movies = parserSearch(response)
         movie_ids = []
         for movie in movies: 
             for key, value in movie.items():
                 print(value)
                 movie_ids.append(key)
         print("Если вы хотите узнать подробную информацию об фильме")
-        num_movie = input("Введите номер фильма > ")
+        try:
+            num_movie = int(input("Введите номер фильма, или 0, если не хотите > "))
+            if num_movie == 0:
+                continue
+            else: 
+                movie_id = movie_ids[num_movie-1]
+                response = getMovieDetails(movie_id)
+                movie_details = parserMovieDetails(response)
+                print(movie_details)
+        except ValueError as e:
+            print("Ошибка! Вы ввели не число", e)
+        except Exception as e:
+            print("Ошибка!!!", e)
+    if command == "3":
+        pass 
+    if command == 4:
+        pass
         
