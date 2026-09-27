@@ -1,779 +1,185 @@
 {
     "docs": [
         {
-            "id": 251941,
-            "name": "Лас Вегас",
-            "alternativeName": "Las Vegas",
-            "enName": "",
-            "type": "tv-series",
-            "year": 2003,
-            "description": "Эд Делайн стоит во главе команды наблюдения за порядком модных и фешенебельных казино Монтесито — одного из районов Лас-Вегаса. Вместе со своим протеже Дэнни МакКойем, бывшим военнослужащим, и остальными членами команды Эд контролирует порядок в игорной столице мира и ловит мошенников, которые пытаются нажиться за счет респектабельных игроков казино.",
-            "shortDescription": "",
-            "movieLength": 0,
-            "isSeries": true,
-            "ticketsOnSale": false,
-            "totalSeriesLength": 106,
-            "seriesLength": 43,
-            "ageRating": 12,
-            "typeNumber": 2,
-            "names": [
-                {
-                    "language": "EN",
-                    "name": "Las Vegas",
-                    "type": "Original title on tmdb"
-                },
-                {
-                    "language": "RU",
-                    "name": "Лас Вегас",
-                    "type": "Russian title on tmdb"
-                },
-                {
-                    "language": "RU",
-                    "name": "Лас Вегас",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "language": null,
-                    "name": "Las Vegas",
-                    "type": "Original title on kinopoisk"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt0364828",
-                "tmdb": 2389
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f12d793d-7e54-4c88-b975-cbb39505fe48/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f12d793d-7e54-4c88-b975-cbb39505fe48/600x900"
-            },
-            "backdrop": {
-                "url": "https://image.tmdb.org/t/p/w1280/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg",
-                "previewUrl": "https://image.tmdb.org/t/p/w500/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg"
-            },
-            "rating": {
-                "imdb": 7.4,
-                "kp": 7.819
-            },
-            "votes": {
-                "imdb": 32000,
-                "kp": 2448
-            },
             "genres": [
                 {
-                    "id": 8,
-                    "name": "драма",
-                    "slug": "drama"
+                    "id": 3,
+                    "name": "\u0431\u043e\u0435\u0432\u0438\u043a",
+                    "slug": "action"
+                },
+                {
+                    "id": 4,
+                    "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440",
+                    "slug": "thriller"
                 },
                 {
                     "id": 16,
-                    "name": "криминал",
+                    "name": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
                     "slug": "crime"
                 }
             ],
+            "alternativeName": "The Fast and the Furious",
+            "ageRating": 18,
+            "votes": {
+                "filmCritics": 163,
+                "imdb": 455000,
+                "kp": 456058
+            },
+            "name": "\u0424\u043e\u0440\u0441\u0430\u0436",
+            "typeNumber": 1,
             "countries": [
                 {
                     "id": 1,
-                    "name": "США"
+                    "name": "\u0421\u0428\u0410"
+                },
+                {
+                    "id": 3,
+                    "name": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
                 }
             ],
-            "releaseYears": [
-                {
-                    "end": 2008,
-                    "start": 2003
-                }
-            ]
-        },
-        {
-            "id": 757623,
-            "name": "Лас Вегас",
-            "alternativeName": "Las Vega's",
-            "enName": "",
-            "type": "tv-series",
-            "year": 2013,
-            "description": "После внезапной смерти мужа Вероника и ее три дочери — Мариана, Антония и Камила узнают, что он не был человеком, за которого его принимали, он занимался подозрительным бизнесом и оставил семью в долгах. Вместе они шаг за шагом будет раскрывать секреты главы семейства, среди которых — ночной клуб, что тот содержал втайне. Учитывая непростое материальное положение, женщины решают начать все с нуля, взять на себя управление клуба и переориентировать его на женскую публику...",
-            "shortDescription": "",
-            "movieLength": 0,
-            "isSeries": true,
-            "ticketsOnSale": false,
-            "totalSeriesLength": 40,
-            "seriesLength": 60,
-            "typeNumber": 2,
-            "names": [
-                {
-                    "name": "Лас Вегас",
-                    "language": "RU",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "name": "Las Vega's",
-                    "language": null,
-                    "type": "Original title on kinopoisk"
-                },
-                {
-                    "name": "Las Vega's",
-                    "language": "ES",
-                    "type": "Original title on tmdb"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt2772760",
-                "tmdb": 57818
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "url": "https://image.tmdb.org/t/p/w500/pZuK2Dh4reXt3tmOuuSx2zJqpIi.jpg",
-                "previewUrl": "https://image.tmdb.org/t/p/w200/pZuK2Dh4reXt3tmOuuSx2zJqpIi.jpg"
-            },
-            "backdrop": null,
-            "rating": {
-                "imdb": 6.6,
-                "tmdb": 7
-            },
-            "votes": {
-                "kp": 10,
-                "imdb": 124,
-                "tmdb": 37
-            },
-            "genres": [
-                {
-                    "name": "драма",
-                    "id": 8,
-                    "slug": "drama"
-                },
-                {
-                    "slug": "romance",
-                    "name": "мелодрама",
-                    "id": 7
-                },
-                {
-                    "name": "комедия",
-                    "id": 6,
-                    "slug": "comedy"
-                },
-                {
-                    "name": "музыка",
-                    "id": 21,
-                    "slug": "music"
-                }
-            ],
-            "countries": [
-                {
-                    "name": "Чили",
-                    "id": 51
-                }
-            ],
-            "releaseYears": [
-                {
-                    "start": 2013,
-                    "end": 2013
-                }
-            ]
-        },
-        {
-            "id": 10024,
-            "name": "Лас-Вегас, 500 миллионов",
-            "alternativeName": "Las Vegas, 500 millones",
-            "enName": "",
+            "id": 666,
             "type": "movie",
-            "year": 1968,
-            "description": "Ежедневно огромные денежные суммы вывозятся из казино в банки на неприступных бронированных автомобилях, принадлежащих мистеру Скорски. Броневики новейшей конструкции, практически неприступны. Внутри автомобиля находятся хорошо вооруженные охранники. Тем не менее, крупье казино Тони Феррис, придумал идеальный план ограбления инкассаторов. Он организует банду состоящую из мошенников и близких людей своего покойного брата. Информацию о времени и маршруте движения, ему добывает его девушка, секретарша Скорски. Но броневики, отслеживает ещё и настырный следователь Даглас, подозревая, что они используются для отмывания денег мафии...",
-            "shortDescription": "",
-            "movieLength": 124,
-            "isSeries": false,
+            "shortDescription": "\u041a\u043e\u043f \u043f\u043e\u0434 \u043f\u0440\u0438\u043a\u0440\u044b\u0442\u0438\u0435\u043c \u0432\u043d\u0435\u0434\u0440\u044f\u0435\u0442\u0441\u044f \u0432 \u0431\u0430\u043d\u0434\u0443 \u0441\u0442\u0440\u0438\u0442\u0440\u0435\u0439\u0441\u0435\u0440\u043e\u0432 \u0438 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043d\u0438\u0445. \u041f\u0435\u0440\u0432\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0433\u043e\u043d\u043e\u0447\u043d\u043e\u0439 \u0444\u0440\u0430\u043d\u0448\u0438\u0437\u044b",
+            "ratingMpaa": "pg13",
+            "year": 2001,
+            "description": "\u0415\u0433\u043e \u0437\u043e\u0432\u0443\u0442 \u0411\u0440\u0430\u0439\u0430\u043d, \u0438\u00a0\u043e\u043d\u00a0\u2014\u00a0\u0444\u0430\u043d\u0430\u0442 \u0442\u0443\u0440\u0431\u0438\u043d \u0438\u00a0\u043d\u0438\u0442\u0440\u043e\u0443\u0441\u043a\u043e\u0440\u0438\u0442\u0435\u043b\u0435\u0439. \u041e\u043d\u00a0\u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432\u00a0\u0430\u0432\u0442\u043e\u0431\u0430\u043d\u0434\u0443 \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u043e\u0433\u043e \u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430 \u0422\u043e\u0440\u0435\u0442\u0442\u043e, \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0438\u00a0\u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u044b\u0445 \u0443\u043b\u0438\u0447\u043d\u044b\u0445 \u0433\u043e\u043d\u043e\u043a. \u0411\u0440\u0430\u0439\u0430\u043d \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u043b\u0438\u0446\u0435\u0439\u0441\u043a\u0438\u0439, \u0438\u00a0\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u0435\u00a0\u2014\u00a0\u0432\u0442\u0435\u0440\u0435\u0442\u044c\u0441\u044f \u0432\u00a0\u0434\u043e\u0432\u0435\u0440\u0438\u0435 \u043a\u00a0\u0422\u043e\u0440\u0435\u0442\u0442\u043e, \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u0432\u0430\u0435\u043c\u043e\u043c\u0443 \u0432\u00a0\u043f\u0440\u0438\u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u043a\u00a0\u0434\u0435\u0440\u0437\u043a\u0438\u043c \u0433\u0440\u0430\u0431\u0435\u0436\u0430\u043c \u0433\u0440\u0443\u0437\u043e\u0432\u0438\u043a\u043e\u0432, \u0441\u043e\u0432\u0435\u0440\u0448\u0430\u0435\u043c\u044b\u043c \u043f\u0440\u044f\u043c\u043e \u043d\u0430\u00a0\u0445\u043e\u0434\u0443.",
+            "movieLength": 106,
             "ticketsOnSale": false,
-            "ratingMpaa": "r",
-            "typeNumber": 1,
+            "rating": {
+                "filmCritics": 5.5,
+                "imdb": 6.8,
+                "kp": 7.828
+            },
             "names": [
                 {
-                    "language": "ES",
-                    "name": "Las Vegas: 500 millones",
+                    "language": "EN",
+                    "name": "The Fast and the Furious",
                     "type": "Original title on tmdb"
                 },
                 {
-                    "language": "US",
-                    "name": "Our Man in Las Vegas",
-                    "type": "Alternative title on tmdb (TV title)"
+                    "language": "RU",
+                    "name": "\u0424\u043e\u0440\u0441\u0430\u0436",
+                    "type": "Russian title on tmdb"
                 },
                 {
-                    "language": "MX",
-                    "name": "Asalto a Las Vegas",
+                    "language": "JP",
+                    "name": "Wild Speed",
+                    "type": "Alternative title on tmdb (English title)"
+                },
+                {
+                    "language": "ES",
+                    "name": "The Fast and the Furious (A todo gas)",
                     "type": "Alternative title on tmdb"
                 },
                 {
-                    "language": "BR",
-                    "name": "O Ouro Maldito de Las Vegas",
+                    "language": "BG",
+                    "name": "B\u016drzi i yarostni",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "GR",
+                    "name": "Oi Machit\u00e9s ton Dr\u00f3mon",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RS",
+                    "name": "Paklene ulice",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "UA",
+                    "name": "Forsazh",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TW",
+                    "name": "\u73a9\u547d\u95dc\u982d",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "\u901f\u5ea6\u4e0e\u6fc0\u60c5",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "VN",
+                    "name": "Qu\u00e1 Nhanh Qu\u00e1 Nguy Hi\u1ec3m",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TW",
+                    "name": "\u72c2\u91ce\u6642\u901f1",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "HK",
+                    "name": "\u72c2\u91ce\u6642\u901f1",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "The Fast and the Furious: The Original",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "DE",
+                    "name": "Fast and Furious",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "AZ",
+                    "name": "Forsaj",
                     "type": "Alternative title on tmdb"
                 },
                 {
                     "language": "GB",
-                    "name": "Tough Guys from Las Vegas",
+                    "name": "F&F1 - The Fast And The Furious",
+                    "type": "Alternative title on tmdb (sortable)"
+                },
+                {
+                    "language": "DE",
+                    "name": "Fast & Furious 1",
                     "type": "Alternative title on tmdb"
                 },
                 {
+                    "language": "MX",
+                    "name": "R\u00e1pido y furioso",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IN",
+                    "name": "\u0d2b\u0d3e\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d \u0d06\u0d7b\u0d21\u0d4d \u0d2b\u0d4d\u0d2f\u0d42\u0d30\u0d3f\u0d38\u0d4d",
+                    "type": "Alternative title on tmdb (\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 (MALAYALAM))"
+                },
+                {
                     "language": "RU",
-                    "name": "Лас-Вегас, 500 миллионов",
+                    "name": "\u0424\u043e\u0440\u0441\u0430\u0436",
                     "type": "Russian title on kinopoisk"
                 },
                 {
                     "language": null,
-                    "name": "Las Vegas, 500 millones",
+                    "name": "The Fast and the Furious",
                     "type": "Original title on kinopoisk"
                 }
             ],
-            "externalId": {
-                "imdb": "tt0063684",
-                "tmdb": 124807
-            },
-            "logo": {
-                "url": "https://image.tmdb.org/t/p/original/pJYfBvz85jls6QMZ41p1hGFQNx4.png",
-                "previewUrl": "https://image.tmdb.org/t/p/w500/pJYfBvz85jls6QMZ41p1hGFQNx4.png"
-            },
             "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/cdd186cb-cf9c-425a-b93d-bbd10bb02059/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/cdd186cb-cf9c-425a-b93d-bbd10bb02059/600x900"
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8277905e-aa09-465d-b0de-7c389a42f215/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8277905e-aa09-465d-b0de-7c389a42f215/600x900"
             },
             "backdrop": {
-                "url": "https://image.tmdb.org/t/p/w1280/bbDETrvFL7I5pRlrSJdYPF6oXph.jpg",
-                "previewUrl": "https://image.tmdb.org/t/p/w500/bbDETrvFL7I5pRlrSJdYPF6oXph.jpg"
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1531675/2a0000017e9e7992bb2b1ca8fb29d0147152/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/1531675/2a0000017e9e7992bb2b1ca8fb29d0147152/1344x756"
             },
-            "rating": {
-                "imdb": 5.9
-            },
-            "votes": {
-                "imdb": 842,
-                "kp": 129
-            },
-            "genres": [
-                {
-                    "id": 8,
-                    "name": "драма",
-                    "slug": "drama"
-                },
-                {
-                    "id": 16,
-                    "name": "криминал",
-                    "slug": "crime"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 15,
-                    "name": "Испания"
-                },
-                {
-                    "id": 8,
-                    "name": "Франция"
-                },
-                {
-                    "id": 18,
-                    "name": "Германия (ФРГ)"
-                },
-                {
-                    "id": 14,
-                    "name": "Италия"
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 421948,
-            "name": "Лас-Вегас, Нью-Мексико, 1875 год",
-            "alternativeName": "Las Vegas New Mexico 1875",
-            "enName": "",
-            "type": "movie",
-            "year": 2008,
-            "description": "",
-            "shortDescription": "",
-            "movieLength": 7,
             "isSeries": false,
-            "ticketsOnSale": false,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "name": "Лас-Вегас, Нью-Мексико, 1875 год",
-                    "language": "RU",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "name": "Las Vegas New Mexico 1875",
-                    "language": null,
-                    "type": "Original title on kinopoisk"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt1266576"
-            },
             "logo": {
-                "url": null
-            },
-            "poster": null,
-            "backdrop": null,
-            "rating": {
-                "kp": 0,
-                "imdb": 7.2,
-                "filmCritics": 0,
-                "russianFilmCritics": 0,
-                "await": 0
-            },
-            "votes": {
-                "kp": 6,
-                "imdb": 18,
-                "filmCritics": 0,
-                "russianFilmCritics": 0,
-                "await": 0
-            },
-            "genres": [
-                {
-                    "name": "короткометражка",
-                    "id": 15,
-                    "slug": "short"
-                },
-                {
-                    "name": "вестерн",
-                    "id": 13,
-                    "slug": "western"
-                }
-            ],
-            "countries": [
-                {
-                    "name": "США",
-                    "id": 1
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 11569,
-            "name": "Покидая Лас-Вегас",
-            "alternativeName": "Leaving Las Vegas",
-            "enName": "",
-            "type": "movie",
-            "year": 1995,
-            "description": "Бен Сандерсон когда-то был сценаристом, а теперь он — алкоголик, жизнь которого стремительно катится под откос. Потеряв семью и работу, он отправляется в Лас-Вегас с единственной целью — напиться до смерти. Там он встречает проститутку Серу, с которой у него завязываются отношения — возможно, последние в его жизни.",
-            "shortDescription": "Новое знакомство помогает запойному сценаристу ненадолго выйти из кризиса. Оскароносная роль Николаса Кейджа",
-            "movieLength": 112,
-            "isSeries": false,
-            "ticketsOnSale": false,
-            "ratingMpaa": "r",
-            "ageRating": 18,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "language": "RU",
-                    "name": "Покидая Лас-Вегас",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "language": null,
-                    "name": "Leaving Las Vegas",
-                    "type": "Original title on kinopoisk"
-                }
-            ],
-            "externalId": {
-                "kpHD": "971185e56a2b47a0bfff164a9a5218e1",
-                "imdb": "tt0113627",
-                "tmdb": 451
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/10835644/614ce318-c67e-4df3-a6e0-c832170b1210/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/10835644/614ce318-c67e-4df3-a6e0-c832170b1210/600x900"
-            },
-            "backdrop": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a0000018b3d4056cdc836716b152b6fbc39/678x380",
-                "url": "https://avatars.mds.yandex.net/get-ott/1648503/2a0000018b3d4056cdc836716b152b6fbc39/1344x756"
-            },
-            "rating": {
-                "filmCritics": 8,
-                "imdb": 7.5,
-                "kp": 7.314
-            },
-            "votes": {
-                "filmCritics": 55,
-                "imdb": 145000,
-                "kp": 30954,
-                "russianFilmCritics": 1
-            },
-            "genres": [
-                {
-                    "id": 8,
-                    "name": "драма",
-                    "slug": "drama"
-                },
-                {
-                    "id": 7,
-                    "name": "мелодрама",
-                    "slug": "romance"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 1,
-                    "name": "США"
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 16050,
-            "name": "Да здравствует Лас-Вегас",
-            "alternativeName": "Viva Las Vegas",
-            "enName": "",
-            "type": "movie",
-            "year": 1964,
-            "description": "Лакки Джексон едет в Лас-Вегас, чтобы заработать на новый двигатель для своего автомобиля. Иначе ему никак не быть первым на Гран-при Лас-Вегаса. Прибыв в город развлечений практически на буксире, он устраивается работать официантом. Вскоре его мыслями целиком и полностью овладевает местная красавица. Возможно, музыка поможет завоевать ее сердце... ",
-            "shortDescription": "",
-            "movieLength": 85,
-            "isSeries": false,
-            "ticketsOnSale": false,
-            "ageRating": 0,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "language": "RU",
-                    "name": "Да здравствует Лас-Вегас",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "language": null,
-                    "name": "Viva Las Vegas",
-                    "type": "Original title on kinopoisk"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt0058725",
-                "tmdb": 2098
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/53c10272-6049-4ea5-93ab-1b718356fe2a/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/53c10272-6049-4ea5-93ab-1b718356fe2a/600x900"
-            },
-            "backdrop": null,
-            "rating": {
-                "filmCritics": 6.7,
-                "imdb": 6.4,
-                "kp": 6.752
-            },
-            "votes": {
-                "filmCritics": 29,
-                "imdb": 10000,
-                "kp": 758
-            },
-            "genres": [
-                {
-                    "id": 9,
-                    "name": "мюзикл",
-                    "slug": "musical"
-                },
-                {
-                    "id": 6,
-                    "name": "комедия",
-                    "slug": "comedy"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 1,
-                    "name": "США"
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 34558,
-            "name": "Направление – Лас-Вегас",
-            "alternativeName": "Destination Vegas",
-            "enName": "",
-            "type": "movie",
-            "year": 1995,
-            "description": "Мисси работает юристом в крупной корпорации. Она обнаруживает, что руководство компании замешано в убийстве. Добыв улики, девушка отправляется в Лас-Вегас, где собирается открыть правду о компании во время подписания крупной сделки, на котором будет присутствовать пресса. \n\nЗа ней охотятся двое убийц, нанятых компанией. Девушка, угрожая пистолетом, заставляет молодого парня вести ее в Вегас и помогать ей. Позже оказывается, что парень недавно вышел из тюрьмы, а раньше работал водителем у грабителей банков. У Мисси новая цель — добраться до Вегаса живой...",
-            "shortDescription": "",
-            "movieLength": 78,
-            "isSeries": false,
-            "ticketsOnSale": false,
-            "ratingMpaa": "r",
-            "ageRating": 18,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "language": "EN",
-                    "name": "Destination Vegas",
-                    "type": "Original title on tmdb"
-                },
-                {
-                    "language": "RU",
-                    "name": "Направление – Лас-Вегас",
-                    "type": "Russian title on tmdb"
-                },
-                {
-                    "language": "RU",
-                    "name": "Направление – Лас-Вегас",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "language": null,
-                    "name": "Destination Vegas",
-                    "type": "Original title on kinopoisk"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt0112853",
-                "tmdb": 184073
-            },
-            "logo": {
-                "url": "https://image.tmdb.org/t/p/original/iX1lGSAJnSVTGeuyX2JO9dvEFxp.png",
-                "previewUrl": "https://image.tmdb.org/t/p/w500/iX1lGSAJnSVTGeuyX2JO9dvEFxp.png"
-            },
-            "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/0b2ba0f4-ade2-4796-b20e-b54655abbf5d/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/0b2ba0f4-ade2-4796-b20e-b54655abbf5d/600x900"
-            },
-            "backdrop": {
-                "previewUrl": "https://image.tmdb.org/t/p/w500/bXJSnOyOYdvRZCYnzo9wMvVVh2s.jpg",
-                "url": "https://image.tmdb.org/t/p/w1280/bXJSnOyOYdvRZCYnzo9wMvVVh2s.jpg"
-            },
-            "rating": {
-                "imdb": 3.8,
-                "tmdb": 4.5
-            },
-            "votes": {
-                "imdb": 192,
-                "kp": 96,
-                "tmdb": 4
-            },
-            "genres": [
-                {
-                    "id": 3,
-                    "name": "боевик",
-                    "slug": "action"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 1,
-                    "name": "США"
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 742853,
-            "name": "Элвис: Да здравствует Лас-Вегас!",
-            "alternativeName": "Elvis: Viva Las Vegas",
-            "enName": "",
-            "type": "movie",
-            "year": 2007,
-            "description": "",
-            "shortDescription": "",
-            "movieLength": 120,
-            "isSeries": false,
-            "ticketsOnSale": false,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "language": "RU",
-                    "name": "Элвис: Да здравствует Лас-Вегас!",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "language": null,
-                    "name": "Elvis: Viva Las Vegas",
-                    "type": "Original title on kinopoisk"
-                },
-                {
-                    "name": "Elvis | Viva Las Vegas",
-                    "language": "EN",
-                    "type": "Original title on tmdb"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt1069953",
-                "tmdb": 139825
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "url": "https://image.tmdb.org/t/p/w500/ep5FksS9M3ho59csuvObPgFwLng.jpg",
-                "previewUrl": "https://image.tmdb.org/t/p/w200/ep5FksS9M3ho59csuvObPgFwLng.jpg"
-            },
-            "backdrop": {
-                "previewUrl": "https://image.tmdb.org/t/p/w500/7Fn2PaExRLrDXQtrTELXIq1eY63.jpg",
-                "url": "https://image.tmdb.org/t/p/w1280/7Fn2PaExRLrDXQtrTELXIq1eY63.jpg"
-            },
-            "rating": {
-                "imdb": 7.4
-            },
-            "votes": {
-                "imdb": 67,
-                "kp": 30
-            },
-            "genres": [
-                {
-                    "id": 12,
-                    "name": "документальный",
-                    "slug": "documentary"
-                },
-                {
-                    "id": 21,
-                    "name": "музыка",
-                    "slug": "music"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 1,
-                    "name": "США"
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 567070,
-            "name": "Дэбби уделывает Лас-Вегас",
-            "alternativeName": "Debbie Does Las Vegas",
-            "enName": "",
-            "type": "movie",
-            "year": 1981,
-            "description": "",
-            "shortDescription": "",
-            "movieLength": 62,
-            "isSeries": false,
-            "ticketsOnSale": false,
-            "ageRating": 18,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "language": "RU",
-                    "name": "Дэбби уделывает Лас-Вегас",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "language": null,
-                    "name": "Debbie Does Las Vegas",
-                    "type": "Original title on kinopoisk"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt0124353",
-                "tmdb": 161014
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/557127ec-420b-4d0f-92b6-39ad23c525f4/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/557127ec-420b-4d0f-92b6-39ad23c525f4/600x900"
-            },
-            "backdrop": null,
-            "rating": {
-                "imdb": 3.8
-            },
-            "votes": {
-                "imdb": 28,
-                "kp": 23
-            },
-            "genres": [
-                {
-                    "id": 20,
-                    "name": "для взрослых",
-                    "slug": "adult"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 1,
-                    "name": "США"
-                }
-            ],
-            "releaseYears": []
-        },
-        {
-            "id": 265396,
-            "name": "Операция «Лас-Вегас»",
-            "alternativeName": "Operation Las Vegas",
-            "enName": "",
-            "type": "movie",
-            "year": 1990,
-            "description": "",
-            "shortDescription": "",
-            "movieLength": 92,
-            "isSeries": false,
-            "ticketsOnSale": false,
-            "typeNumber": 1,
-            "names": [
-                {
-                    "name": "Операция «Лас-Вегас»",
-                    "language": "RU",
-                    "type": "Russian title on kinopoisk"
-                },
-                {
-                    "name": "Operation Las Vegas",
-                    "language": null,
-                    "type": "Original title on kinopoisk"
-                },
-                {
-                    "name": "Operation Las Vegas",
-                    "language": "EN",
-                    "type": "Original title on tmdb"
-                }
-            ],
-            "externalId": {
-                "imdb": "tt0332294",
-                "tmdb": 147757
-            },
-            "logo": {
-                "url": null,
-                "previewUrl": null
-            },
-            "poster": {
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/da82c7cc-e6d4-4fed-b2d8-4593df0bdfa6/600x900",
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/da82c7cc-e6d4-4fed-b2d8-4593df0bdfa6/300x450"
-            },
-            "backdrop": null,
-            "rating": {
-                "imdb": 3.3,
-                "tmdb": 4.333
-            },
-            "votes": {
-                "imdb": 91,
-                "kp": 20,
-                "tmdb": 3
-            },
-            "genres": [
-                {
-                    "id": 3,
-                    "slug": "action",
-                    "name": "боевик"
-                }
-            ],
-            "countries": [
-                {
-                    "id": 8,
-                    "name": "Франция"
-                }
-            ],
-            "releaseYears": []
+                "url": "https://image.tmdb.org/t/p/original/uPzO7DHR1Z3zZQExKp5X4ABUu79.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/uPzO7DHR1Z3zZQExKp5X4ABUu79.png"
+            }
         }
     ],
-    "total": 739,
     "limit": 10,
-    "page": 1,
-    "pages": 74
+    "next": null,
+    "prev": null,
+    "hasNext": false,
+    "hasPrev": false
 }
