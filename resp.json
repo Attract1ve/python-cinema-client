@@ -1,185 +1,614 @@
 {
     "docs": [
         {
-            "genres": [
-                {
-                    "id": 3,
-                    "name": "\u0431\u043e\u0435\u0432\u0438\u043a",
-                    "slug": "action"
-                },
-                {
-                    "id": 4,
-                    "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440",
-                    "slug": "thriller"
-                },
-                {
-                    "id": 16,
-                    "name": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
-                    "slug": "crime"
-                }
-            ],
-            "alternativeName": "The Fast and the Furious",
-            "ageRating": 18,
-            "votes": {
-                "filmCritics": 163,
-                "imdb": 455000,
-                "kp": 456058
-            },
-            "name": "\u0424\u043e\u0440\u0441\u0430\u0436",
-            "typeNumber": 1,
-            "countries": [
-                {
-                    "id": 1,
-                    "name": "\u0421\u0428\u0410"
-                },
-                {
-                    "id": 3,
-                    "name": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
-                }
-            ],
-            "id": 666,
+            "id": 258687,
+            "name": "Интерстеллар",
+            "alternativeName": "Interstellar",
+            "enName": "",
             "type": "movie",
-            "shortDescription": "\u041a\u043e\u043f \u043f\u043e\u0434 \u043f\u0440\u0438\u043a\u0440\u044b\u0442\u0438\u0435\u043c \u0432\u043d\u0435\u0434\u0440\u044f\u0435\u0442\u0441\u044f \u0432 \u0431\u0430\u043d\u0434\u0443 \u0441\u0442\u0440\u0438\u0442\u0440\u0435\u0439\u0441\u0435\u0440\u043e\u0432 \u0438 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043d\u0438\u0445. \u041f\u0435\u0440\u0432\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0433\u043e\u043d\u043e\u0447\u043d\u043e\u0439 \u0444\u0440\u0430\u043d\u0448\u0438\u0437\u044b",
-            "ratingMpaa": "pg13",
-            "year": 2001,
-            "description": "\u0415\u0433\u043e \u0437\u043e\u0432\u0443\u0442 \u0411\u0440\u0430\u0439\u0430\u043d, \u0438\u00a0\u043e\u043d\u00a0\u2014\u00a0\u0444\u0430\u043d\u0430\u0442 \u0442\u0443\u0440\u0431\u0438\u043d \u0438\u00a0\u043d\u0438\u0442\u0440\u043e\u0443\u0441\u043a\u043e\u0440\u0438\u0442\u0435\u043b\u0435\u0439. \u041e\u043d\u00a0\u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432\u00a0\u0430\u0432\u0442\u043e\u0431\u0430\u043d\u0434\u0443 \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u043e\u0433\u043e \u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430 \u0422\u043e\u0440\u0435\u0442\u0442\u043e, \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0438\u00a0\u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u044b\u0445 \u0443\u043b\u0438\u0447\u043d\u044b\u0445 \u0433\u043e\u043d\u043e\u043a. \u0411\u0440\u0430\u0439\u0430\u043d \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u043b\u0438\u0446\u0435\u0439\u0441\u043a\u0438\u0439, \u0438\u00a0\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u0435\u00a0\u2014\u00a0\u0432\u0442\u0435\u0440\u0435\u0442\u044c\u0441\u044f \u0432\u00a0\u0434\u043e\u0432\u0435\u0440\u0438\u0435 \u043a\u00a0\u0422\u043e\u0440\u0435\u0442\u0442\u043e, \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u0432\u0430\u0435\u043c\u043e\u043c\u0443 \u0432\u00a0\u043f\u0440\u0438\u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u043a\u00a0\u0434\u0435\u0440\u0437\u043a\u0438\u043c \u0433\u0440\u0430\u0431\u0435\u0436\u0430\u043c \u0433\u0440\u0443\u0437\u043e\u0432\u0438\u043a\u043e\u0432, \u0441\u043e\u0432\u0435\u0440\u0448\u0430\u0435\u043c\u044b\u043c \u043f\u0440\u044f\u043c\u043e \u043d\u0430\u00a0\u0445\u043e\u0434\u0443.",
-            "movieLength": 106,
+            "year": 2014,
+            "description": "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями.",
+            "shortDescription": "Отец летит к звёздам ради будущего детей — и всего человечества. Космическая одиссея Кристофера Нолана",
+            "movieLength": 169,
+            "isSeries": false,
             "ticketsOnSale": false,
-            "rating": {
-                "filmCritics": 5.5,
-                "imdb": 6.8,
-                "kp": 7.828
-            },
+            "ratingMpaa": "pg13",
+            "ageRating": 18,
+            "top250": 1,
+            "typeNumber": 1,
             "names": [
                 {
                     "language": "EN",
-                    "name": "The Fast and the Furious",
+                    "name": "Interstellar",
                     "type": "Original title on tmdb"
                 },
                 {
                     "language": "RU",
-                    "name": "\u0424\u043e\u0440\u0441\u0430\u0436",
+                    "name": "Интерстеллар",
                     "type": "Russian title on tmdb"
                 },
                 {
-                    "language": "JP",
-                    "name": "Wild Speed",
-                    "type": "Alternative title on tmdb (English title)"
-                },
-                {
-                    "language": "ES",
-                    "name": "The Fast and the Furious (A todo gas)",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "BG",
-                    "name": "B\u016drzi i yarostni",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "GR",
-                    "name": "Oi Machit\u00e9s ton Dr\u00f3mon",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "RS",
-                    "name": "Paklene ulice",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "UA",
-                    "name": "Forsazh",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "TW",
-                    "name": "\u73a9\u547d\u95dc\u982d",
-                    "type": "Alternative title on tmdb"
-                },
-                {
                     "language": "CN",
-                    "name": "\u901f\u5ea6\u4e0e\u6fc0\u60c5",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "VN",
-                    "name": "Qu\u00e1 Nhanh Qu\u00e1 Nguy Hi\u1ec3m",
-                    "type": "Alternative title on tmdb"
-                },
-                {
-                    "language": "TW",
-                    "name": "\u72c2\u91ce\u6642\u901f1",
+                    "name": "星际穿越",
                     "type": "Alternative title on tmdb"
                 },
                 {
                     "language": "HK",
-                    "name": "\u72c2\u91ce\u6642\u901f1",
+                    "name": "星際啟示錄",
                     "type": "Alternative title on tmdb"
                 },
                 {
-                    "language": "US",
-                    "name": "The Fast and the Furious: The Original",
+                    "language": "BR",
+                    "name": "Interestelar",
+                    "type": "Alternative title on tmdb (Modern title)"
+                },
+                {
+                    "language": "HU",
+                    "name": "Csillagok Között",
                     "type": "Alternative title on tmdb"
                 },
                 {
-                    "language": "DE",
-                    "name": "Fast and Furious",
+                    "language": "JP",
+                    "name": "インターステラー",
                     "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "GE",
+                    "name": "ინტერსტელარი",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "VN",
+                    "name": "Hố Đen Tử Thần",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "ES",
+                    "name": "Interestelar",
+                    "type": "Alternative title on tmdb (alternative spelling)"
                 },
                 {
                     "language": "AZ",
-                    "name": "Forsaj",
+                    "name": "Ulduzlararası",
                     "type": "Alternative title on tmdb"
                 },
                 {
-                    "language": "GB",
-                    "name": "F&F1 - The Fast And The Furious",
-                    "type": "Alternative title on tmdb (sortable)"
-                },
-                {
-                    "language": "DE",
-                    "name": "Fast & Furious 1",
+                    "language": "CA",
+                    "name": "Interstellaire",
                     "type": "Alternative title on tmdb"
                 },
                 {
-                    "language": "MX",
-                    "name": "R\u00e1pido y furioso",
+                    "language": "KG",
+                    "name": "Интерстеллар",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "MK",
+                    "name": "Интерстелар",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "SA",
+                    "name": "بين النجوم",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BY",
+                    "name": "Інтэрстэлар",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IR",
+                    "name": "میان‌ ستاره‌ ای",
+                    "type": "Alternative title on tmdb (فارسی)"
+                },
+                {
+                    "language": "IN",
+                    "name": "इंटरस्टेलर",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "PK",
+                    "name": "ਇੰਟਰਸਟੈਲਰ",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BG",
+                    "name": "Интерстелар",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "EE",
+                    "name": "Tähtedevaheline",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IL",
+                    "name": "בין כוכבים",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "GE",
+                    "name": "ვარსკვლავთშორისი",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "LT",
+                    "name": "Tarp žvaigždžių",
                     "type": "Alternative title on tmdb"
                 },
                 {
                     "language": "IN",
-                    "name": "\u0d2b\u0d3e\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d \u0d06\u0d7b\u0d21\u0d4d \u0d2b\u0d4d\u0d2f\u0d42\u0d30\u0d3f\u0d38\u0d4d",
-                    "type": "Alternative title on tmdb (\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 (MALAYALAM))"
+                    "name": "ഇന്റർസ്റ്റെല്ലാർ",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "EG",
+                    "name": "قائم بين النجوم",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IR",
+                    "name": "اینتر استلار",
+                    "type": "Alternative title on tmdb (Mazanderani)"
+                },
+                {
+                    "language": "MN",
+                    "name": "Одод хооронд",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "NP",
+                    "name": "इन्टरस्टेलर",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RO",
+                    "name": "Interstellar: Călătorind Prin Univers",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "SI",
+                    "name": "Medzvezdje",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "LK",
+                    "name": "இன்டர்‌ஸ்டெலர்",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "UA",
+                    "name": "Інтерстеллар",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "PK",
+                    "name": "انٹرسٹیلر",
+                    "type": "Alternative title on tmdb (Western Punjabi)"
+                },
+                {
+                    "language": "MO",
+                    "name": "星際啟示錄",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "BA",
+                    "name": "Međuzvjezdani",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TR",
+                    "name": "Yıldızlararası",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RS",
+                    "name": "Међузвездани",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IN",
+                    "name": "ఇంటర్ స్టెల్లర్",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TH",
+                    "name": "อินเตอร์สเตลลาร์ ทะยานดาวกู้โลก",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "KR",
+                    "name": "인터스텔라",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TW",
+                    "name": "星際效應",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "AM",
+                    "name": "Ինտերստելեր",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "IR",
+                    "name": "در میان ستارگان",
+                    "type": "Alternative title on tmdb (فارسی)"
+                },
+                {
+                    "language": "SA",
+                    "name": "أنترستيلر",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "FR",
+                    "name": "Interstellaire",
+                    "type": "Alternative title on tmdb"
                 },
                 {
                     "language": "RU",
-                    "name": "\u0424\u043e\u0440\u0441\u0430\u0436",
+                    "name": "Интерстеллэр",
+                    "type": "Alternative title on tmdb (Kabardian)"
+                },
+                {
+                    "language": "SI",
+                    "name": "Interstellar",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "HK",
+                    "name": "星際啓示錄",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Интерстеллар",
                     "type": "Russian title on kinopoisk"
                 },
                 {
                     "language": null,
-                    "name": "The Fast and the Furious",
+                    "name": "Interstellar",
                     "type": "Original title on kinopoisk"
                 }
             ],
+            "externalId": {
+                "kpHD": "4b6323adfb04e652a9b88f6096d01ae9",
+                "imdb": "tt0816692",
+                "tmdb": 157336
+            },
+            "logo": {
+                "url": "https://image.tmdb.org/t/p/original/8YGHe69tPNbSaMbUwSo3AHkELKJ.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/8YGHe69tPNbSaMbUwSo3AHkELKJ.png"
+            },
             "poster": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8277905e-aa09-465d-b0de-7c389a42f215/300x450",
-                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8277905e-aa09-465d-b0de-7c389a42f215/600x900"
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/600x900"
             },
             "backdrop": {
-                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1531675/2a0000017e9e7992bb2b1ca8fb29d0147152/678x380",
-                "url": "https://avatars.mds.yandex.net/get-ott/1531675/2a0000017e9e7992bb2b1ca8fb29d0147152/1344x756"
+                "previewUrl": "https://avatars.mds.yandex.net/get-ott/1531675/2a000001862c40fa5c5394735529ee7e7188/678x380",
+                "url": "https://avatars.mds.yandex.net/get-ott/1531675/2a000001862c40fa5c5394735529ee7e7188/1344x756"
             },
+            "rating": {
+                "filmCritics": 7.1,
+                "imdb": 8.7,
+                "kp": 8.684,
+                "russianFilmCritics": 80.6452
+            },
+            "votes": {
+                "filmCritics": 373,
+                "imdb": 2500000,
+                "kp": 1195528,
+                "russianFilmCritics": 31
+            },
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "фантастика",
+                    "slug": "sci-fi"
+                },
+                {
+                    "id": 8,
+                    "name": "драма",
+                    "slug": "drama"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 1,
+                    "name": "США"
+                },
+                {
+                    "id": 11,
+                    "name": "Великобритания"
+                },
+                {
+                    "id": 6,
+                    "name": "Канада"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 1009186,
+            "name": "Наука «Интерстеллар»",
+            "alternativeName": "The Science of Interstellar",
+            "enName": "",
+            "type": "movie",
+            "year": 2014,
+            "description": "Фильм о ленте «Интерстеллар» режиссера Кристофера Нолана, фантастическое путешествие далеко за пределы Солнечной системы.",
+            "shortDescription": "",
+            "movieLength": 50,
             "isSeries": false,
+            "ticketsOnSale": false,
+            "typeNumber": 1,
+            "names": [
+                {
+                    "language": "RU",
+                    "name": "Наука «Интерстеллар»",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "The Science of Interstellar",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "imdb": "tt4415360",
+                "tmdb": 336592
+            },
+            "logo": null,
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/dd278c6d-5ab7-4c88-8dc0-bd984cfdb12d/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/dd278c6d-5ab7-4c88-8dc0-bd984cfdb12d/600x900"
+            },
+            "backdrop": null,
+            "rating": {
+                "imdb": 7.1,
+                "kp": 7.044
+            },
+            "votes": {
+                "imdb": 697,
+                "kp": 1149
+            },
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "документальный",
+                    "slug": "documentary"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 1,
+                    "name": "США"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 49869,
+            "name": "Интерстелла 5555: История секретной звездной системы",
+            "alternativeName": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+            "enName": "",
+            "type": "anime",
+            "year": 2003,
+            "description": "Четыре музыканта из другой галактики, которых похитил злой менеджер, становятся самой лучшей группой на Земле.",
+            "shortDescription": "",
+            "movieLength": 68,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "ageRating": 12,
+            "typeNumber": 4,
+            "names": [
+                {
+                    "language": "EN",
+                    "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+                    "type": "Original title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Интерстелла 5555",
+                    "type": "Russian title on tmdb"
+                },
+                {
+                    "language": "AU",
+                    "name": "Daft Punk - Interstella 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Interstella 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "DE",
+                    "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Interstella 5555 - The 5tory of the 5ecret 5tar 5ystem",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Interstella Five Five Five Five",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "US",
+                    "name": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "ES",
+                    "name": "Interstella 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "NL",
+                    "name": "Interstella 5555: The Story of the Secret Star System",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "NL",
+                    "name": "Interstella 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "NL",
+                    "name": "Intāsutera Fō Faibu",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "NL",
+                    "name": "インターステラ5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Интерстелла 5555: История секретной звёздной системы",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "FR",
+                    "name": "Interstella 5555, The 5tory of the 5ecret 5tar 5ystem",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "KR",
+                    "name": "인터 스텔라 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "FR",
+                    "name": "Daft Punk & Leiji Matsumoto - Interstella 5555 - The 5tory of the 5ecret 5tar 5ystem",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "PA",
+                    "name": "Daft Punk & Leiji Matsumoto: Interstella 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "MX",
+                    "name": "Daft Punk & Leiji Matsumoto - Interstella 5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "TW",
+                    "name": "銀河生死戀5555",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "HK",
+                    "name": "星際5555：異星夢系統秘傳",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "CN",
+                    "name": "星际5555：异星梦系统秘传",
+                    "type": "Alternative title on tmdb"
+                },
+                {
+                    "language": "RU",
+                    "name": "Интерстелла 5555: История секретной звездной системы",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "language": null,
+                    "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "imdb": "tt0368667",
+                "tmdb": 11049
+            },
             "logo": {
-                "url": "https://image.tmdb.org/t/p/original/uPzO7DHR1Z3zZQExKp5X4ABUu79.png",
-                "previewUrl": "https://image.tmdb.org/t/p/w500/uPzO7DHR1Z3zZQExKp5X4ABUu79.png"
-            }
+                "url": "https://image.tmdb.org/t/p/original/n85XV7J8JygOYDizFfz9vcIkxCs.png",
+                "previewUrl": "https://image.tmdb.org/t/p/w500/n85XV7J8JygOYDizFfz9vcIkxCs.png"
+            },
+            "poster": {
+                "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/0fde5cbc-7a25-4b97-820b-813cebe6f8fe/300x450",
+                "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/0fde5cbc-7a25-4b97-820b-813cebe6f8fe/600x900"
+            },
+            "backdrop": null,
+            "rating": {
+                "filmCritics": 6.7,
+                "imdb": 7.8,
+                "kp": 7.706
+            },
+            "votes": {
+                "filmCritics": 7,
+                "imdb": 18000,
+                "kp": 4352,
+                "russianFilmCritics": 1
+            },
+            "genres": [
+                {
+                    "id": 1750,
+                    "name": "аниме",
+                    "slug": "anime"
+                },
+                {
+                    "id": 14,
+                    "name": "мультфильм",
+                    "slug": "animation"
+                },
+                {
+                    "id": 2,
+                    "name": "фантастика",
+                    "slug": "sci-fi"
+                },
+                {
+                    "id": 5,
+                    "name": "фэнтези",
+                    "slug": "fantasy"
+                },
+                {
+                    "id": 3,
+                    "name": "боевик",
+                    "slug": "action"
+                },
+                {
+                    "id": 10,
+                    "name": "приключения",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 21,
+                    "name": "музыка",
+                    "slug": "music"
+                }
+            ],
+            "countries": [
+                {
+                    "id": 9,
+                    "name": "Япония"
+                },
+                {
+                    "id": 8,
+                    "name": "Франция"
+                },
+                {
+                    "id": 47,
+                    "name": "Филиппины"
+                }
+            ],
+            "releaseYears": []
         }
     ],
+    "total": 3,
     "limit": 10,
-    "next": null,
-    "prev": null,
-    "hasNext": false,
-    "hasPrev": false
+    "page": 1,
+    "pages": 1
 }

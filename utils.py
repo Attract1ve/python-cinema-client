@@ -1,3 +1,6 @@
+from config import HISTORY_PATH
+import json 
+
 def parserSearch(response): 
     movies = response["docs"]
     list_of_finding_movie = []
@@ -21,3 +24,7 @@ def parserMovieDetails(response):
 Рейтинг IMDB: {details['rating']['imdb']}
 Краткое описание: {details['shortDescription']}
         """
+        
+def printHistory(): 
+    with open(HISTORY_PATH, encoding="UTF-8") as file: 
+        print(file.read())
