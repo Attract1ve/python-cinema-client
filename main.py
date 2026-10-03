@@ -1,10 +1,8 @@
-import requests
-from config import API_TOKEN, BASE_URL
-import json
-from api import searchFilm, getMovieDetails
-from utils import parserSearch, parserMovieDetails, printHistory
-from storage import addToHistoryList, saveHistory
+from api import search_movie, get_movie_details
+from utils import parser_search, parser_movie_details
+from storage import add_to_history_list, save_history, load_history
 
+history_list = load_history()              
 
 command = ""
 commands = f"""
@@ -22,24 +20,25 @@ while command != "0":
         print(commands)
     if command == "1": 
         name = input("Введите название фильма > ")
-        response = searchFilm(name)
-        movies = parserSearch(response)
+        response = search_movie(name)
+        if response is None:
+            continue
+        movies = parser_search(response)
         movie_ids = []
-        for movie in movies: 
-            for key, value in movie.items():
-                print(value)
-                movie_ids.append(key)
-        print("Если вы хотите узнать подробную информацию об фильме")
+        for num, movie in enumerate(movies, start=1): 
+            print(f"{num}. {movie.get('name')} ({movie.get('year')})")
+            movie_ids.append(movie.get('movie_id'))
+        
         try:
-            num_movie = int(input("Введите номер фильма, или 0, если не хотите > "))
+            num_movie = int(input("Введите номер фильма, или 0, чтобы завершить работу приложения > "))
             if num_movie == 0:
-                continue
+                break
             else: 
                 movie_id = movie_ids[num_movie-1]
-                response = getMovieDetails(movie_id)
-                movie_details = parserMovieDetails(response)                
-                addToHistoryList(response)
-                saveHistory()
+                response = get_movie_details(movie_id)
+                movie_details = parser_movie_details(response)  
+                add_to_history_list(history_list, response)
+                save_history(history_list)
                 print(movie_details)
         except ValueError as e:
             print("Ошибка! Вы ввели не число", e)
@@ -48,4 +47,5 @@ while command != "0":
     if command == "2": 
         pass
     if command == "3":
-        printHistory()
+        for item in history_list:
+            print(f"Запрос: {item['query']}, Дата: {item['date']}")
