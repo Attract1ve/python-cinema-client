@@ -1,55 +1,47 @@
 import requests
-import json
-from config import API_TOKEN, BASE_URL, HEADERS
+from config import BASE_URL, HEADERS
 
-def searchFilm(name): 
+
+def make_request(url, params=None): 
+    try:
+        response = requests.get(
+            url=url, 
+            headers=HEADERS,
+            params=params,
+            timeout=10
+        )
+        response.raise_for_status()
+        return response.json()
+    except requests.HTTPError as e: 
+        print(f"HTTP ошибка: {e}")
+    except requests.ConnectionError as e:
+        print(f"Ошибка соеденения: {e}") 
+    except requests.Timeout as e:
+        print(f"Таймаут: {e}")
+    except requests.RequestException as e: 
+        print(f"Ошибка: {e}")
+        
+
+def search_movie(name): 
     params = {
         "query": name,
     }
-    try: 
-        response = requests.get(f"{BASE_URL}/search", headers=HEADERS, params=params, timeout=10)
-        response.raise_for_status()
-        return response.json()
-    except requests.HTTPError as e: 
-        print(f"HTTP ошибка: {e}")
-        print(f"Статус: {response.status_code}")
-    except requests.ConnectionError as e:
-        print(f"Ошибка соеденения: {e}")
-    except requests.Timeout as e: 
-        print(f"Таймаут: {e}")
-    except requests.RequestException as e: 
-        print(f"Другая ошибка requests: {e}")
+    return make_request(
+        url=f"{BASE_URL}/search", 
+        params=params
+    )
      
-def getMovieDetails(movie_id): 
+def get_movie_details(movie_id): 
     params = {
         "id": movie_id
     }
-    try: 
-        response = requests.get(f"{BASE_URL}", headers=HEADERS, params=params, timeout=10)
-        response.raise_for_status()
-        return response.json()
-    except requests.HTTPError as e: 
-        print(f"HTTP ошибка: {e}")
-        print(f"Статус: {response.status_code}")
-    except requests.ConnectionError as e:
-        print(f"Ошибка соеденения: {e}")
-    except requests.Timeout as e: 
-        print(f"Таймаут: {e}")
-    except requests.RequestException as e: 
-        print(f"Другая ошибка requests: {e}")
+    
+    return make_request(
+        url=f"{BASE_URL}", 
+        params=params
+    )
         
-def randomMovie(): 
-    try: 
-        response = requests.get(f"{BASE_URL}/random", headers=HEADERS, timeout=10)
-        response.raise_for_status()
-        return response.json()
-    except requests.HTTPError as e: 
-        print(f"HTTP ошибка: {e}")
-        print(f"Статус ошибки: {response.status_code}")
-    except requests.ConnectionError as e:
-        print(f"Ошибка соеденения: {e}")
-    except requests.Timeout as e: 
-        print(f"Таймаут: {e}")
-    except requests.RequestException as e:
-        print(f"Другая ошибка requests: {e}")
-        
+def random_movie(): 
+    return make_request(
+        url=f"{BASE_URL}/random"
+    )
